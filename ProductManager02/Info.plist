@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Privacy - Local Network Usage Description
+Privacy - Local Network Usage Description
+Privacy - Local Network Usage Description
+Privacy - Local Network Usage Description
+Privacy - Local Network Usage Description
+Privacy - Local Network Usage Description
+Privacy - Local Network Usage Description
+Privacy - Local Network Usage Description
+NSLocalNetworkUsageDescription</key>
+	<string>App需要访问局域网以连接后端服务器
+App需要访问局域网以连接后端服务器
+APP需要局域网已连接后端服务器</string>
+</dict>
+</plist>
